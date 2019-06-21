@@ -1,0 +1,42 @@
+body {
+  background-image: url("pictures/f0e1869820b56bcc79819dee3f35490e.jpg");
+  background-size: 1300px 750px;
+  width: 1000px;
+  height: 1000px;
+}
+
+a:hover, a:visited, a:link, a:active
+{
+    text-decoration: none;
+    color: #626F78;
+    font-size: 20px;
+}
+
+
+h1 {
+  font-family: 'Roboto Mono', monospace;
+  text-align: center;
+  font-size: 35px;
+  /* cursor: url("pictures/pork-512.png"), crosshair ; */
+}
+
+.NA {
+  position: relative;
+  left: 110px;
+  top: 110px;
+}
+.SA {
+  position:relative;
+  left: 105px;
+  top: 380px;
+}
+.E {
+  position:relative;
+  right: -315px;
+  top: 63px;
+}
+.A {
+  position:relative;
+  right: -505px;
+  top: 120px;
+}
