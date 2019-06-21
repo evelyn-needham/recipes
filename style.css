@@ -40,3 +40,17 @@ h1 {
   right: -505px;
   top: 120px;
 }
+
+.D {
+  position:relative;
+  top: 520px;
+  left: 120px;
+  font-size: 20px;
+}
+
+marquee {
+  font-size: 30px;
+  color: white;
+  position:relative;
+  top: 520px;
+}
